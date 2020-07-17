@@ -40,6 +40,8 @@ public class HelloWorld {
     System.out.println("covid19 is pandacmic");
     System.out.println("corona vacin");
     System.out.println("covid19 vacin in Auguest");
+    Ssytem.out.printlnm("quarontine");
+
 
   }
 }
